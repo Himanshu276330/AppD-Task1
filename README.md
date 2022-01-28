@@ -1,3 +1,7 @@
 # AppD-Task1
 
-![App Img](demo-img.png)
+# Demo Image 1
+![App Img](App-file-ready-to-install/demo-img)
+
+# Demo Image 2
+![App Img](App-file-ready-to-install/demo2)
